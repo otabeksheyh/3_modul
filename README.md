@@ -1,1 +1,2 @@
-#Diabets-Prediction
+#ichimliklarni_klassifikatsiya qiluvchi modul
+ 
